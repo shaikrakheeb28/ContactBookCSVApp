@@ -25,4 +25,4 @@ This is a console-based contact book app in Python that stores contacts in a CSV
 
 ## Author
 
-Sekhar Metla - www.harisystems.com
+Shaik Rakheeb - https://github.com/shaikrakheeb28
